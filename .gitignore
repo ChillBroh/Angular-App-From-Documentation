@@ -1,5 +1,7 @@
 # Dependency directories
 node_modules/
+.angular/
+
 
 # Compiled output
 /dist/
