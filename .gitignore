@@ -1,1 +1,24 @@
-node_modules
+# Dependency directories
+node_modules/
+
+# Compiled output
+/dist/
+/tmp/
+
+# Sensitive or environment-specific files
+/src/environments/*.ts
+
+# IDE/editor specific files
+.idea/
+.vscode/
+
+# Logs and debugging files
+*.log
+npm-debug.log*
+
+# Other generated files
+/.sass-cache/
+/coverage/
+*.orig
+*.swp
+*.map
